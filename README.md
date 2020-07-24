@@ -3,6 +3,7 @@ Train a model using Natural Language Processing so that it can correctly predict
 
 ### This project has been made under university projects
 ### Notebook Documentation has been made in french language
+### The Project Contain a Video Demonstration in French Language
 
 ## Documentation
 ---
